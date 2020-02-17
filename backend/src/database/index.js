@@ -7,7 +7,8 @@ class Database {
 
   mongo() {
     mongoose.connect(process.env.MONGO_URL, {
-      useNewUrlParser: true,useFindAndModify: true,
+      useNewUrlParser: true,
+      useFindAndModify: true,
       useUnifiedTopology: true,
     });
   }
