@@ -32,7 +32,7 @@ Essa aplicação é um _Getting Started_ com arquitetura MVC(opinada) para o uso
  - ES6/ES7/ES8 ✅
  - ESLint/Prettier (Padronização e embelezamento de código) ✅
 ---
-### Estrtura de pastas principais:
+### Estrutura de pastas principais:
 
 ```
 ├── src
