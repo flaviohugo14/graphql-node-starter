@@ -35,10 +35,10 @@ Essa aplicação é um _Getting Started_ com arquitetura MVC(opinada) para o uso
 ### Estrutura de pastas principais:
 
 ```
-├── src
-    ├── app
-    │    ├── models
-    │    └── controllers
+├── src/
+    ├── app/
+    │    ├── models/
+    │    └── controllers/
     │
     ├── config/
     ├── database/
